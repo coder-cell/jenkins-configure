@@ -1,0 +1,14 @@
+Apr 25, 2021 10:37:16 PM hudson.remoting.jnlp.Main createEngine
+INFO: Setting up agent: Mars
+Apr 25, 2021 10:37:16 PM hudson.remoting.jnlp.Main$CuiListener <init>
+INFO: Jenkins agent is running in headless mode.
+Apr 25, 2021 10:37:16 PM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 4.6
+Apr 25, 2021 10:37:16 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using D:\Learning\Jenkins\Mars\remoting as a remoting work directory
+Apr 25, 2021 10:37:16 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: WebSocket connection open
+Apr 25, 2021 10:37:18 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connected
+Apr 25, 2021 10:48:11 PM org.eclipse.jgit.util.FS$FileStoreAttributes saveToConfig
+WARNING: locking FileBasedConfig[C:\Users\manis\.config\jgit\config] failed after 5 retries

@@ -1,0 +1,1 @@
+java -jar D:/Learning/Jenkins/Mars/agent.jar -jnlpUrl http://localhost:8080/computer/Mars/jenkins-agent.jnlp -secret c8a5fa886338a8787bc3c52218d8c8df812814311ae4b70f6a491f19d3dfab2e -workDir "D:\Learning\Jenkins\Mars"
