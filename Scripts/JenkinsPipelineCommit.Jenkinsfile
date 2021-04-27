@@ -1,3 +1,6 @@
+
+def SCM = 'GitSCM'
+
 pipeline {
     agent {label 'Mars'}
 		
@@ -5,7 +8,7 @@ pipeline {
 
 		    stage('Git'){
              steps{
-               checkout([$class: 'GitSCM',
+               checkout([$class: SCM,
                branches: [[name: "c43f69fba50742b947d42655d10d8a3f19b5e531"]],
                userRemoteConfigs: [[
                url: 'https://github.com/coder-cell/robot-gsearch.git']]])		 
