@@ -1,2 +1,2 @@
 # jenkins-configure
-Repository for Jenkin Configure.
+_Repository for Jenkin Configure._
